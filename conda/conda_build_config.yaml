@@ -1,3 +1,6 @@
  mpi:
     - openmpi  # [osx]
     - mpich    # [linux]
+
+ python:
+    - 3.8
