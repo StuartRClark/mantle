@@ -5,9 +5,9 @@ This is a fork of the Underworld package to be used for geoscience tutorials. Pl
 https://github.com/underworldcode/underworld2
 
 
-Launch Convection Example [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Artshap/underworld2_unsw/master?filepath=examples%2FConvection_unsw.ipynb)
+Launch Convection Example [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/StuartRClark/mantle/master?filepath=examples%2FConvection_unsw.ipynb)
 
-Launch Rayleigh-Taylor Example [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Artshap/underworld2_unsw/master?filepath=examples%2FRayleigh_UNSW.ipynb)
+Launch Rayleigh-Taylor Example [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/StuartRClark/mantle/master?filepath=examples%2FRayleigh_UNSW.ipynb)
 
 Documentation 
 -------------
